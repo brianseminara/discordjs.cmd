@@ -1,0 +1,28 @@
+{
+  "name": "discordjs-cmd",
+  "version": "0.0.2",
+  "description": "discordjs-cmd is a discord.js command handler. For JavaScript only",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "discord.js": "^12.5.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/brianseminara/discordjs.cmd"
+  },
+  "license": "MIT",
+  "keywords": [
+    "discord.js",
+    "command-handler",
+    "discord",
+    "js",
+    "javascript"
+  ]
+}
